@@ -1,0 +1,38 @@
+# نبراس - نظام إدارة الفصول الدراسية
+# Nibras - Classroom Management System
+
+**النسخة:** 2.0 | **اللغات:** العربية + English
+
+## التثبيت السريع
+
+```bash
+pip install -r requirements.txt
+python nibras_launcher.py
+```
+
+## الإعداد الأولي
+
+### 1. مفتاح Google AI (اختياري)
+- احصل على مفتاح من: https://makersuite.google.com/app/apikey
+- أضفه في: Settings → Google API Key
+- **ملاحظة:** كل مستخدم يحتاج مفتاحه الخاص
+
+### 2. تفعيل البرنامج
+- للحصول على مفتاح ترخيص: mustaphaserkhad@gmail.com
+
+### 3. تغيير اللغة
+- Settings → Language → اختر اللغة
+- سيُعاد تشغيل البرنامج تلقائياً
+
+## المميزات
+
+- ✅ إدارة الفصول والتلاميذ
+- ✅ تتبع الحضور والتقييم
+- ✅ تقارير PDF احترافية
+- ✅ ذكاء اصطناعي تربوي
+- ✅ دعم العربية والإنجليزية
+
+## الدعم الفني
+**Email:** mostaphaserkhad@gmail.com
+
+© 2024-2025 Nibras
