@@ -1,0 +1,68 @@
+# Nibras .gitignore
+
+# Environment variables
+.env
+
+# Configuration files with sensitive data
+config.ini
+settings.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Database
+*.db
+*.db-journal
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# License files (keep example but not real license)
+licensing/license.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+candidate_*.txt
+*.tmp
+*.bak
+*.old
+
+# Build artifacts
+dist/
+build/
+
